@@ -7,7 +7,6 @@ This project is a recreation of the popular Chrome Dino Runner Game developed us
 ## Game Preview
 
 Add a screenshot of your game here.
-
 ![Game Screenshot](trex game.png)
 
 ## Features
